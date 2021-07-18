@@ -1,3 +1,3 @@
-# sql_test
+# Just_Eat_Cycles_project
 
-just for test
+This project is the second at Engeto Data Academy focusing on Pandas knowledge
