@@ -17,7 +17,7 @@ The second table was about weather in Edinburg. 8 record for each day (3 hour st
 
 
 ![JEC - IIa](https://user-images.githubusercontent.com/75171974/129174511-59115119-b94f-43da-8ba5-fb212aa4b55d.png)
-![JEC - VII](https://user-images.githubusercontent.com/75171974/129175012-1712df8b-1889-4ff2-b2e4-9e660d4fd167.png)
+
 
 
 
@@ -25,7 +25,8 @@ Then we need to check data very carefully and prepare tables for our work.
 
 
 
-![JEC - IIIa](https://user-images.githubusercontent.com/75171974/129174783-57a32702-d11d-4f33-ab8a-f3c5fd2b7277.png)
+![JEC - IIIb](https://user-images.githubusercontent.com/75171974/129177549-5d2e6e91-36eb-470e-825d-d6ab51864052.png)
+
 
 
 
@@ -39,14 +40,10 @@ A descriptive statistic is obligatory.
 
 The next task was to find out how variable demand for borrowing over time is.
 
-
-
-![JEC - VI](https://user-images.githubusercontent.com/75171974/129174959-ac31dfc2-bcf8-4481-9002-8fd86fe59b8e.png)
-
-
-
-
-
 Another issue is about fact that bikes could accumulated at particular stations and obviously at other stations could be a lack of bikes.
+
+
+![JEC - VIII](https://user-images.githubusercontent.com/75171974/129177727-06c6c8d7-990c-4c3d-9d81-bb1517265cd7.png)
+
 
 And we also analyze distances between all stations.
