@@ -45,5 +45,6 @@ Another issue is about fact that bikes could accumulated at particular stations 
 
 And we also analyze distances between all stations.
 
-![JEC - distance](https://user-images.githubusercontent.com/75171974/129178940-602f6799-62cc-45bc-9054-cae4f69e21e3.png)
+![JEC - map](https://user-images.githubusercontent.com/75171974/129179220-857f8543-071c-4ba0-a7fe-87fe871501aa.png)
+
 
