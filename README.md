@@ -6,7 +6,7 @@ First of all: this notebook contains Folio maps. For this reason it's better to 
 Project:
 Just Eat Cycles is a company in Scotland. Since September 2018 they have operated 24/7 bikesharing in Edinburgh. Each ride is recorded so we received a table containing more than 400 000 rows consist of data, e.g. name of stations, their location (latitude, longitude), duration etc.
 
-![JEC - Ia](https://user-images.githubusercontent.com/75171974/129170338-b2f1e4f2-e751-4d9d-b985-3d287972e44c.png)
+![JEC - Ia](https://user-images.githubusercontent.com/75171974/129173626-8f8cca55-060e-4f65-b4a3-4565d8fba85b.png)
 
 The second table was about weather in Edinburg. 8 record for each day (3 hour step) helped us to analyze if and how bike rental depends on weather condition.
 
