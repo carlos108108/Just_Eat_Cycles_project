@@ -43,8 +43,7 @@ The next task was to find out how variable demand for borrowing over time is.
 
 Another issue is about fact that bikes could accumulated at particular stations and obviously at other stations could be a lack of bikes.
 
-
-![JEC - VIII](https://user-images.githubusercontent.com/75171974/129177727-06c6c8d7-990c-4c3d-9d81-bb1517265cd7.png)
-
-
 And we also analyze distances between all stations.
+
+![JEC - distance](https://user-images.githubusercontent.com/75171974/129178940-602f6799-62cc-45bc-9054-cae4f69e21e3.png)
+
