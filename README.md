@@ -30,11 +30,12 @@ Then we need to check data very carefully and prepare tables for our work.
 
 
 
-A descriptive statistic is obligatory.
+A descriptive statistic was obligatory.
 
 
 
-![JEC - V](https://user-images.githubusercontent.com/75171974/129174937-8280cb39-69d9-4592-8713-39c02d310b5e.png)
+![JEC - statistic](https://user-images.githubusercontent.com/75171974/129178183-748f7e73-3278-489c-8ea4-f481806ea16d.png)
+
 
 
 
